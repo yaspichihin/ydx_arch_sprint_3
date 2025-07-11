@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="RoadMap" id="roadmap-id">
+    <mxGraphModel dx="1188" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q1" value="Q1 (0-3 мес.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2" value="Q2 (3-6 мес.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3" value="Q3 (6-9 мес.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q4" value="Q4 (9-12 мес.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="800" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rate-service-label" value="Rate Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="callcenter-label" value="Кол-центр" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="partner-label" value="Партнёрский кол-центр" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="infra-label" value="Инфраструктура" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rs-t1" value="T1 - Проектирование архитектуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="200" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rs-t2" value="T2 - Разработка MVP (API + UI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rs-t3" value="T3 - Модуль выгрузки файлов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rs-t4" value="T4 - Оптимизация и расширение" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="800" y="120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cc-t1" value="T5 - Интеграция с Rate Service API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="250" y="200" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cc-t2" value="T6 - Доработка интерфейса" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="500" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cc-t3" value="T7 - Обучение операторов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="660" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pc-t1" value="T8 - Настройка приёма файлов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="500" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pc-t2" value="T9 - Интеграция в процессы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="680" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pc-t3" value="T10 - Обучение партнёров" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="850" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inf-t1" value="T11 - Настройка мониторинга" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="520" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inf-t2" value="T12 - Конфигурация SFTP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="700" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inf-t3" value="T13 - Балансировка нагрузки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="860" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dep1" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;" parent="1" source="rs-t1" target="rs-t2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="450" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;" parent="1" source="rs-t2" target="rs-t3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="140" as="sourcePoint" />
+            <mxPoint x="560" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;" parent="1" source="rs-t2" target="cc-t1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="170" as="sourcePoint" />
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
