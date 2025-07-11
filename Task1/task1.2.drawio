@@ -1,0 +1,201 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Страница — 1" id="9_ansFEQo7w8NVbBJF24">
+    <mxGraphModel dx="1749" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-3" value="Приходит без предварительного звонка" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="Atkx-mlIBvMt5Pd6mCvT-2">
+          <mxGeometry x="0.3885" y="20" relative="1" as="geometry">
+            <mxPoint x="79" y="80" as="sourcePoint" />
+            <mxPoint x="479" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="199" y="80" />
+              <mxPoint x="199" y="240" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Atkx-mlIBvMt5Pd6mCvT-1" target="Atkx-mlIBvMt5Pd6mCvT-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="80" />
+              <mxPoint x="160" y="440" />
+              <mxPoint x="480" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Atkx-mlIBvMt5Pd6mCvT-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="79" y="80.00000000000011" as="sourcePoint" />
+            <mxPoint x="479" y="199.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="80" />
+              <mxPoint x="240" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-1" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-4" value="&#xa;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Отделение банка&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="176" as="sourcePoint" />
+            <mxPoint x="1455" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Atkx-mlIBvMt5Pd6mCvT-5" target="Atkx-mlIBvMt5Pd6mCvT-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="802" y="210" />
+              <mxPoint x="802" y="320" />
+              <mxPoint x="1000" y="320" />
+              <mxPoint x="1000" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Atkx-mlIBvMt5Pd6mCvT-5" target="Atkx-mlIBvMt5Pd6mCvT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="170" />
+              <mxPoint x="270" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: wrap;&quot;&gt;Сотрудник отделения&lt;/span&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="136" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-9" value="Кол-центр" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-11" value="Уточнить детали открытия депозита" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Atkx-mlIBvMt5Pd6mCvT-14" target="Atkx-mlIBvMt5Pd6mCvT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-14" value="Сотрудник кол-центра" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="399" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Atkx-mlIBvMt5Pd6mCvT-16" target="Atkx-mlIBvMt5Pd6mCvT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-16" value="Системе кол-центра" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="391.5" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-19" value="&#xa;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(18, 18, 18); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;З&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; box-shadow: none !important; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;аводит обращение&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="405" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="359" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-21" value="АБС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Atkx-mlIBvMt5Pd6mCvT-24" target="Atkx-mlIBvMt5Pd6mCvT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-26" value="Обрабатывает заявки из кол-центра" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Atkx-mlIBvMt5Pd6mCvT-25">
+          <mxGeometry x="0.2778" y="-2" relative="1" as="geometry">
+            <mxPoint x="34" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Atkx-mlIBvMt5Pd6mCvT-24" target="Atkx-mlIBvMt5Pd6mCvT-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="451.0344827586207" as="sourcePoint" />
+            <mxPoint x="1600" y="450.48275862068976" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1449" y="399" as="sourcePoint" />
+            <mxPoint x="549" y="190.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1449" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-24" value="Сотрудники депозитов" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="399" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-30" value="Письмо с запросом о ставке депозита" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="842" y="160" width="221.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="680" as="sourcePoint" />
+            <mxPoint x="1130" y="519" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="680" />
+              <mxPoint x="650" y="630" />
+              <mxPoint x="1130" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580.0000000000002" y="690" as="sourcePoint" />
+            <mxPoint x="1460" y="469" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1460" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-34" value="Сотрудник кредитования" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-36" value="Отдел кредитования" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-38" value="Запрос текущего уровеня кредитного риска" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="653" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-40" value="Анализ текущего уровеня кредитного риска" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="600" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-43" value="Письмо с анализом текущего уровеня кредитного риска" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="690" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="401" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-46" value="Excel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-48" value="Расчет ставки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1457" y="420" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-52" value="Письмо с ответом о ставке депозита" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="190" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-56" value="Подтверждает открытие депозита" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-58" value="Создаёт депозит в АБС.&lt;br&gt;Загружает подписанные документы клиентом." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="804.75" y="284" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Atkx-mlIBvMt5Pd6mCvT-60" value="Выдаёт на подпись документы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
